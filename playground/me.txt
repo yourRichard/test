@@ -1,0 +1,5 @@
+{#user}
+Name: Richard Min
+Skills: HTML, CSS, JS, React.js
+Email: phonemyamin223@gmail.com
+{{/user}}
